@@ -1,10 +1,10 @@
 mkdir DevOps
-touch file 
+touch Linuxcommands
 pwd
 mkdir LinuxOS
-vi filename
+vi About
 mv linuxOS linux
 pwd
-cd .., cd devops, touch f1.txt 
+cd .., cd devops, touch Linux
 ls 
-cp filename linux
+cp About linux
