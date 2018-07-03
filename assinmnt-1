@@ -1,0 +1,10 @@
+mkdir DevOps
+touch file 
+pwd
+mkdir LinuxOS
+vi filename
+mv linuxOS linux
+pwd
+cd .., cd devops, touch f1.txt 
+ls 
+cp filename linux
